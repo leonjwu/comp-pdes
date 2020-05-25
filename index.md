@@ -1,4 +1,7 @@
 # Computational PDEs
+
+## [Link to Accompanying Report (PDF)](github.com/leonwu4951/comp-pdes/Report.pdf/)
+
 ## Simulations:
 
 ### 1D, Open Boundaries
