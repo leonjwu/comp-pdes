@@ -2,28 +2,29 @@
 
 ## [Link to Accompanying Report (PDF)](https://github.com/leonjwu/comp-pdes/blob/master/Report.pdf)
 
+- Implemented finite difference schemes for 1D and 2D Wave Equations
+- Designed boundary conditions to allow for reflecting and non-reflecting boundaries (Neumann and Dirichlet)
+- Created visualisations of 1D and 2D waves using Matplotlib Animations
+
 ## Simulations:
 
-### 1D, Open Boundaries
-<iframe width="938" height="500" src="https://www.youtube.com/embed/djmgNc1xQVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 2D Wave Equation with Open Boundaries - Symmetric Single Wave
+<iframe width="938" height="500" src="https://www.youtube.com/embed/r62rEneZAbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 1D, Reflecting Boundaries
-<iframe width="938" height="500" src="https://www.youtube.com/embed/kD8sFVJlUmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 2D Wave Equation with Open Boundaries - Symmetric Multiple Waves
+<iframe width="938" height="500" src="https://www.youtube.com/embed/yAbyFZgvO_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 1D, Mirroring Boundaries
-<iframe width="938" height="500" src="https://www.youtube.com/embed/weaBnDge1Jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 2D Wave Equation with Open Boundaries - Asymmetric Single Wave
+<iframe width="938" height="500" src="https://www.youtube.com/embed/8wePBg1fRy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 2D, Open Boundaries, q=1
-<iframe width="938" height="500" src="https://www.youtube.com/embed/vGkqslS2YdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 2D Wave Equation with Open Boundaries - Asymmetric Multiple Waves
+<iframe width="938" height="500" src="https://www.youtube.com/embed/dzyD02wS18E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 2D, Open Boundaries, q=0.2
-<iframe width="938" height="500" src="https://www.youtube.com/embed/4p4I3wy-lEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Neumann and Dirichlet boundary conditions imposed for reflecting and mirroring bounaries respectively. Increasing CFL results in less dispersion and dissipation. CFL greater than 1 results in an unstable scheme.
 
-### 2D, Open Boundaries, q=0.5
-<iframe width="938" height="500" src="https://www.youtube.com/embed/TNM_0j0-Ck0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 1D Wave Equation with Different Boundary Conditions and CFL Numbers
+<iframe width="938" height="500" src="https://www.youtube.com/embed/cqKYWG6Z6kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 2D, Open Boundaries, q=2
-<iframe width="938" height="500" src="https://www.youtube.com/embed/i3F9NWxix0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## References
 - https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/readings/am53.pdf?fbclid=IwAR39YHGMkwKpjbTtYo1D4FjoJ1wJg06pfkRhVz4aAIYn_Za2VHaICRxfPuI
