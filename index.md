@@ -1,6 +1,6 @@
 # Computational PDEs
 
-## [Link to Accompanying Report (PDF)](https://github.com/leonwu4951/comp-pdes/blob/master/Report.pdf)
+## [Link to Accompanying Report (PDF)](https://github.com/leonjwu/comp-pdes/blob/master/Report.pdf)
 
 ## Simulations:
 
