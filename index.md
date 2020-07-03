@@ -20,9 +20,10 @@
 ### 2D Wave Equation with Open Boundaries - Asymmetric Multiple Waves
 <iframe width="938" height="500" src="https://www.youtube.com/embed/dzyD02wS18E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Neumann and Dirichlet boundary conditions imposed for reflecting and mirroring bounaries respectively. Increasing CFL results in less dispersion and dissipation. CFL greater than 1 results in an unstable scheme.
 
 ### 1D Wave Equation with Different Boundary Conditions and CFL Numbers
+- Neumann and Dirichlet boundary conditions imposed for reflecting and mirroring bounaries respectively. Increasing CFL results in less dispersion and dissipation. CFL greater than 1 results in an unstable scheme.
+
 <iframe width="938" height="500" src="https://www.youtube.com/embed/cqKYWG6Z6kg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
